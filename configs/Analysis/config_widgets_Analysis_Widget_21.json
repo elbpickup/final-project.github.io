@@ -1,0 +1,85 @@
+{
+  "analysisTools": [
+    {
+      "name": "CalculateDensity",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Calculate Density"
+    },
+    {
+      "name": "ConnectOriginsToDestinations",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "showOutputType": false,
+      "toolLabel": "Connect Origins to Destinations"
+    },
+    {
+      "name": "CreateBuffers",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Create Buffers"
+    },
+    {
+      "name": "FindCentroids",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Find Centroids"
+    },
+    {
+      "name": "FindHotSpots",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Find Hot Spots"
+    },
+    {
+      "name": "FindOutliers",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Find Outliers"
+    },
+    {
+      "name": "FindSimilarLocations",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Find Similar Locations"
+    },
+    {
+      "name": "SummarizeWithin",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Summarize Within"
+    }
+  ]
+}
